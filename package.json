@@ -1,8 +1,15 @@
 {
   "name": "rn-shake-move",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/index.js",
   "repository": "https://github.com/ieschalier/rn-shake-move.git",
+  "keywords": [
+    "rn",
+    "accelerometer",
+    "react-native",
+    "expo",
+    "shake"
+  ],
   "author": "Igor ESCHALIER <igor.eschalier@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
