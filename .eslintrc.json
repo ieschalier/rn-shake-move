@@ -1,0 +1,13 @@
+{
+  "extends": ["expo", "plugin:react/recommended"],
+  "parser": "babel-eslint",
+  "plugins": ["babel"],
+  "settings": {
+    "react": {
+      "version": "^16.8.6"
+    }
+  },
+  "rules": {
+    "semi": ["error", "never"]
+  }
+}

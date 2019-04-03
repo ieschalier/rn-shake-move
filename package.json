@@ -1,0 +1,24 @@
+{
+  "name": "rn-shake-move",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/ieschalier/rn-shake-move.git",
+  "author": "Igor ESCHALIER <igor.eschalier@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": "^32.0.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-preset-expo": "^5.1.1",
+    "eslint": "^5.16.0",
+    "eslint-config-expo": "^6.0.0",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.16.4"
+  }
+}
