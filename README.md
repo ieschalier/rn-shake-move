@@ -11,5 +11,5 @@ npm install rn-shake-move
 ## Usage
 
 ```js
-<Shake onShake={accessibility.askForAction} />
+<Shake onShake={() => console.log("Shake shake shake")} />
 ```
